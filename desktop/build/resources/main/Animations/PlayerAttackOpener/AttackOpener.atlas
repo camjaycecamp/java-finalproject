@@ -1,0 +1,712 @@
+
+AttackOpener.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Armature_Attack_Opener
+  rotate: false
+  xy: 2, 1712
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 38
+Armature_Attack_Opener
+  rotate: false
+  xy: 2, 1541
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 99
+Armature_Attack_Opener
+  rotate: false
+  xy: 226, 1712
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 86
+Armature_Attack_Opener
+  rotate: false
+  xy: 2, 1370
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 9
+Armature_Attack_Opener
+  rotate: false
+  xy: 226, 1541
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 57
+Armature_Attack_Opener
+  rotate: false
+  xy: 450, 1712
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 3
+Armature_Attack_Opener
+  rotate: false
+  xy: 2, 1199
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 70
+Armature_Attack_Opener
+  rotate: false
+  xy: 226, 1370
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 74
+Armature_Attack_Opener
+  rotate: false
+  xy: 450, 1541
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 95
+Armature_Attack_Opener
+  rotate: false
+  xy: 674, 1712
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 60
+Armature_Attack_Opener
+  rotate: false
+  xy: 2, 1028
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 96
+Armature_Attack_Opener
+  rotate: false
+  xy: 226, 1199
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 48
+Armature_Attack_Opener
+  rotate: false
+  xy: 450, 1370
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 77
+Armature_Attack_Opener
+  rotate: false
+  xy: 674, 1541
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 61
+Armature_Attack_Opener
+  rotate: false
+  xy: 898, 1712
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 62
+Armature_Attack_Opener
+  rotate: false
+  xy: 2, 857
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 63
+Armature_Attack_Opener
+  rotate: false
+  xy: 226, 1028
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 20
+Armature_Attack_Opener
+  rotate: false
+  xy: 450, 1199
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 65
+Armature_Attack_Opener
+  rotate: false
+  xy: 674, 1370
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 22
+Armature_Attack_Opener
+  rotate: false
+  xy: 898, 1541
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 23
+Armature_Attack_Opener
+  rotate: false
+  xy: 1122, 1712
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 24
+Armature_Attack_Opener
+  rotate: false
+  xy: 2, 686
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 25
+Armature_Attack_Opener
+  rotate: false
+  xy: 226, 857
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 90
+Armature_Attack_Opener
+  rotate: false
+  xy: 450, 1028
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 92
+Armature_Attack_Opener
+  rotate: false
+  xy: 674, 1199
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 28
+Armature_Attack_Opener
+  rotate: false
+  xy: 898, 1370
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 67
+Armature_Attack_Opener
+  rotate: false
+  xy: 1122, 1541
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 94
+Armature_Attack_Opener
+  rotate: false
+  xy: 1346, 1712
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 46
+Armature_Attack_Opener
+  rotate: false
+  xy: 2, 515
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 49
+Armature_Attack_Opener
+  rotate: false
+  xy: 226, 686
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 75
+Armature_Attack_Opener
+  rotate: false
+  xy: 450, 857
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 21
+Armature_Attack_Opener
+  rotate: false
+  xy: 674, 1028
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 76
+Armature_Attack_Opener
+  rotate: false
+  xy: 898, 1199
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 1
+Armature_Attack_Opener
+  rotate: false
+  xy: 1122, 1370
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 66
+Armature_Attack_Opener
+  rotate: false
+  xy: 1346, 1541
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 58
+Armature_Attack_Opener
+  rotate: false
+  xy: 1570, 1712
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 71
+Armature_Attack_Opener
+  rotate: false
+  xy: 2, 344
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 72
+Armature_Attack_Opener
+  rotate: false
+  xy: 226, 515
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 98
+Armature_Attack_Opener
+  rotate: false
+  xy: 450, 686
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 30
+Armature_Attack_Opener
+  rotate: false
+  xy: 674, 857
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 31
+Armature_Attack_Opener
+  rotate: false
+  xy: 898, 1028
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 32
+Armature_Attack_Opener
+  rotate: false
+  xy: 1122, 1199
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 33
+Armature_Attack_Opener
+  rotate: false
+  xy: 1346, 1370
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 34
+Armature_Attack_Opener
+  rotate: false
+  xy: 1570, 1541
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 35
+Armature_Attack_Opener
+  rotate: false
+  xy: 1794, 1712
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 36
+Armature_Attack_Opener
+  rotate: false
+  xy: 2, 173
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 37
+Armature_Attack_Opener
+  rotate: false
+  xy: 226, 344
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 29
+Armature_Attack_Opener
+  rotate: false
+  xy: 450, 515
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 39
+Armature_Attack_Opener
+  rotate: false
+  xy: 674, 686
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 89
+Armature_Attack_Opener
+  rotate: false
+  xy: 898, 857
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 0
+Armature_Attack_Opener
+  rotate: false
+  xy: 1122, 1028
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 19
+Armature_Attack_Opener
+  rotate: false
+  xy: 1346, 1199
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 87
+Armature_Attack_Opener
+  rotate: false
+  xy: 1570, 1370
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 78
+Armature_Attack_Opener
+  rotate: false
+  xy: 1794, 1541
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 64
+Armature_Attack_Opener
+  rotate: false
+  xy: 2, 2
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 54
+Armature_Attack_Opener
+  rotate: false
+  xy: 226, 173
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 10
+Armature_Attack_Opener
+  rotate: false
+  xy: 450, 344
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 73
+Armature_Attack_Opener
+  rotate: false
+  xy: 674, 515
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 80
+Armature_Attack_Opener
+  rotate: false
+  xy: 898, 686
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 81
+Armature_Attack_Opener
+  rotate: false
+  xy: 1122, 857
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 82
+Armature_Attack_Opener
+  rotate: false
+  xy: 1346, 1028
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 83
+Armature_Attack_Opener
+  rotate: false
+  xy: 1570, 1199
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 40
+Armature_Attack_Opener
+  rotate: false
+  xy: 1794, 1370
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 41
+Armature_Attack_Opener
+  rotate: false
+  xy: 226, 2
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 42
+Armature_Attack_Opener
+  rotate: false
+  xy: 450, 173
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 69
+Armature_Attack_Opener
+  rotate: false
+  xy: 674, 344
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 88
+Armature_Attack_Opener
+  rotate: false
+  xy: 898, 515
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 79
+Armature_Attack_Opener
+  rotate: false
+  xy: 1122, 686
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 2
+Armature_Attack_Opener
+  rotate: false
+  xy: 1346, 857
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 47
+Armature_Attack_Opener
+  rotate: false
+  xy: 1570, 1028
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 4
+Armature_Attack_Opener
+  rotate: false
+  xy: 1794, 1199
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 5
+Armature_Attack_Opener
+  rotate: false
+  xy: 450, 2
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 6
+Armature_Attack_Opener
+  rotate: false
+  xy: 674, 173
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 7
+Armature_Attack_Opener
+  rotate: false
+  xy: 898, 344
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 8
+Armature_Attack_Opener
+  rotate: false
+  xy: 1122, 515
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 97
+Armature_Attack_Opener
+  rotate: false
+  xy: 1346, 686
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 11
+Armature_Attack_Opener
+  rotate: false
+  xy: 1570, 857
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 26
+Armature_Attack_Opener
+  rotate: false
+  xy: 1794, 1028
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 55
+Armature_Attack_Opener
+  rotate: false
+  xy: 674, 2
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 84
+Armature_Attack_Opener
+  rotate: false
+  xy: 898, 173
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 59
+Armature_Attack_Opener
+  rotate: false
+  xy: 1122, 344
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 85
+Armature_Attack_Opener
+  rotate: false
+  xy: 1346, 515
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 43
+Armature_Attack_Opener
+  rotate: false
+  xy: 1570, 686
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 68
+Armature_Attack_Opener
+  rotate: false
+  xy: 1794, 857
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 91
+Armature_Attack_Opener
+  rotate: false
+  xy: 898, 2
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 44
+Armature_Attack_Opener
+  rotate: false
+  xy: 1122, 173
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 93
+Armature_Attack_Opener
+  rotate: false
+  xy: 1346, 344
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 50
+Armature_Attack_Opener
+  rotate: false
+  xy: 1570, 515
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 51
+Armature_Attack_Opener
+  rotate: false
+  xy: 1794, 686
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 52
+Armature_Attack_Opener
+  rotate: false
+  xy: 1122, 2
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 53
+Armature_Attack_Opener
+  rotate: false
+  xy: 1346, 173
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 27
+Armature_Attack_Opener
+  rotate: false
+  xy: 1570, 344
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 56
+Armature_Attack_Opener
+  rotate: false
+  xy: 1794, 515
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 12
+Armature_Attack_Opener
+  rotate: false
+  xy: 1346, 2
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 13
+Armature_Attack_Opener
+  rotate: false
+  xy: 1570, 173
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 14
+Armature_Attack_Opener
+  rotate: false
+  xy: 1794, 344
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 15
+Armature_Attack_Opener
+  rotate: false
+  xy: 1570, 2
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 16
+Armature_Attack_Opener
+  rotate: false
+  xy: 1794, 173
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 17
+Armature_Attack_Opener
+  rotate: false
+  xy: 1794, 2
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 18
+
+AttackOpener2.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Armature_Attack_Opener
+  rotate: false
+  xy: 2, 2
+  size: 222, 169
+  orig: 222, 169
+  offset: 0, 0
+  index: 45

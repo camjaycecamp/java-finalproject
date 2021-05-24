@@ -1,0 +1,783 @@
+
+ZombieAttackOpener.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Armature_AttackOpener
+  rotate: false
+  xy: 2, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 71
+Armature_AttackOpener
+  rotate: false
+  xy: 2, 778
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 1
+Armature_AttackOpener
+  rotate: false
+  xy: 110, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 73
+Armature_AttackOpener
+  rotate: false
+  xy: 2, 681
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 30
+Armature_AttackOpener
+  rotate: false
+  xy: 110, 778
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 75
+Armature_AttackOpener
+  rotate: false
+  xy: 218, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 32
+Armature_AttackOpener
+  rotate: false
+  xy: 2, 584
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 77
+Armature_AttackOpener
+  rotate: false
+  xy: 110, 681
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 34
+Armature_AttackOpener
+  rotate: false
+  xy: 218, 778
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 79
+Armature_AttackOpener
+  rotate: false
+  xy: 326, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 36
+Armature_AttackOpener
+  rotate: false
+  xy: 2, 487
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 38
+Armature_AttackOpener
+  rotate: false
+  xy: 110, 584
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 110
+Armature_AttackOpener
+  rotate: false
+  xy: 110, 584
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 0
+Armature_AttackOpener
+  rotate: false
+  xy: 218, 681
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 101
+Armature_AttackOpener
+  rotate: false
+  xy: 326, 778
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 80
+Armature_AttackOpener
+  rotate: false
+  xy: 434, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 82
+Armature_AttackOpener
+  rotate: false
+  xy: 2, 390
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 84
+Armature_AttackOpener
+  rotate: false
+  xy: 110, 487
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 41
+Armature_AttackOpener
+  rotate: false
+  xy: 218, 584
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 86
+Armature_AttackOpener
+  rotate: false
+  xy: 326, 681
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 43
+Armature_AttackOpener
+  rotate: false
+  xy: 434, 778
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 88
+Armature_AttackOpener
+  rotate: false
+  xy: 542, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 45
+Armature_AttackOpener
+  rotate: false
+  xy: 2, 293
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 2
+Armature_AttackOpener
+  rotate: false
+  xy: 110, 390
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 47
+Armature_AttackOpener
+  rotate: false
+  xy: 218, 487
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 4
+Armature_AttackOpener
+  rotate: false
+  xy: 326, 584
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 49
+Armature_AttackOpener
+  rotate: false
+  xy: 434, 681
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 6
+Armature_AttackOpener
+  rotate: false
+  xy: 542, 778
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 8
+Armature_AttackOpener
+  rotate: false
+  xy: 650, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 91
+Armature_AttackOpener
+  rotate: false
+  xy: 2, 196
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 93
+Armature_AttackOpener
+  rotate: false
+  xy: 110, 293
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 50
+Armature_AttackOpener
+  rotate: false
+  xy: 218, 390
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 95
+Armature_AttackOpener
+  rotate: false
+  xy: 326, 487
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 52
+Armature_AttackOpener
+  rotate: false
+  xy: 434, 584
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 97
+Armature_AttackOpener
+  rotate: false
+  xy: 542, 681
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 54
+Armature_AttackOpener
+  rotate: false
+  xy: 650, 778
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 11
+Armature_AttackOpener
+  rotate: false
+  xy: 758, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 56
+Armature_AttackOpener
+  rotate: false
+  xy: 2, 99
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 13
+Armature_AttackOpener
+  rotate: false
+  xy: 110, 196
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 58
+Armature_AttackOpener
+  rotate: false
+  xy: 218, 293
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 15
+Armature_AttackOpener
+  rotate: false
+  xy: 326, 390
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 17
+Armature_AttackOpener
+  rotate: false
+  xy: 434, 487
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 19
+Armature_AttackOpener
+  rotate: false
+  xy: 542, 584
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 61
+Armature_AttackOpener
+  rotate: false
+  xy: 650, 681
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 63
+Armature_AttackOpener
+  rotate: false
+  xy: 758, 778
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 20
+Armature_AttackOpener
+  rotate: false
+  xy: 866, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 65
+Armature_AttackOpener
+  rotate: false
+  xy: 2, 2
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 22
+Armature_AttackOpener
+  rotate: false
+  xy: 110, 99
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 67
+Armature_AttackOpener
+  rotate: false
+  xy: 218, 196
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 24
+Armature_AttackOpener
+  rotate: false
+  xy: 326, 293
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 69
+Armature_AttackOpener
+  rotate: false
+  xy: 434, 390
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 26
+Armature_AttackOpener
+  rotate: false
+  xy: 542, 487
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 104
+Armature_AttackOpener
+  rotate: false
+  xy: 650, 584
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 28
+Armature_AttackOpener
+  rotate: false
+  xy: 758, 681
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 106
+Armature_AttackOpener
+  rotate: false
+  xy: 866, 778
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 108
+Armature_AttackOpener
+  rotate: false
+  xy: 974, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 100
+Armature_AttackOpener
+  rotate: false
+  xy: 110, 2
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 70
+Armature_AttackOpener
+  rotate: false
+  xy: 218, 99
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 72
+Armature_AttackOpener
+  rotate: false
+  xy: 326, 196
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 74
+Armature_AttackOpener
+  rotate: false
+  xy: 434, 293
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 31
+Armature_AttackOpener
+  rotate: false
+  xy: 542, 390
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 76
+Armature_AttackOpener
+  rotate: false
+  xy: 650, 487
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 33
+Armature_AttackOpener
+  rotate: false
+  xy: 758, 584
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 78
+Armature_AttackOpener
+  rotate: false
+  xy: 866, 681
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 35
+Armature_AttackOpener
+  rotate: false
+  xy: 974, 778
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 37
+Armature_AttackOpener
+  rotate: false
+  xy: 1082, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 39
+Armature_AttackOpener
+  rotate: false
+  xy: 218, 2
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 99
+Armature_AttackOpener
+  rotate: false
+  xy: 326, 99
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 102
+Armature_AttackOpener
+  rotate: false
+  xy: 434, 196
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 81
+Armature_AttackOpener
+  rotate: false
+  xy: 542, 293
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 83
+Armature_AttackOpener
+  rotate: false
+  xy: 650, 390
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 40
+Armature_AttackOpener
+  rotate: false
+  xy: 758, 487
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 85
+Armature_AttackOpener
+  rotate: false
+  xy: 866, 584
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 42
+Armature_AttackOpener
+  rotate: false
+  xy: 974, 681
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 87
+Armature_AttackOpener
+  rotate: false
+  xy: 1082, 778
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 44
+Armature_AttackOpener
+  rotate: false
+  xy: 1190, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 89
+Armature_AttackOpener
+  rotate: false
+  xy: 326, 2
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 46
+Armature_AttackOpener
+  rotate: false
+  xy: 434, 99
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 3
+Armature_AttackOpener
+  rotate: false
+  xy: 542, 196
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 48
+Armature_AttackOpener
+  rotate: false
+  xy: 650, 293
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 5
+Armature_AttackOpener
+  rotate: false
+  xy: 758, 390
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 7
+Armature_AttackOpener
+  rotate: false
+  xy: 866, 487
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 9
+Armature_AttackOpener
+  rotate: false
+  xy: 974, 584
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 27
+Armature_AttackOpener
+  rotate: false
+  xy: 1082, 681
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 90
+Armature_AttackOpener
+  rotate: false
+  xy: 1190, 778
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 92
+Armature_AttackOpener
+  rotate: false
+  xy: 1298, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 94
+Armature_AttackOpener
+  rotate: false
+  xy: 434, 2
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 51
+Armature_AttackOpener
+  rotate: false
+  xy: 542, 99
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 96
+Armature_AttackOpener
+  rotate: false
+  xy: 650, 196
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 53
+Armature_AttackOpener
+  rotate: false
+  xy: 758, 293
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 98
+Armature_AttackOpener
+  rotate: false
+  xy: 866, 390
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 55
+Armature_AttackOpener
+  rotate: false
+  xy: 974, 487
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 12
+Armature_AttackOpener
+  rotate: false
+  xy: 1082, 584
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 57
+Armature_AttackOpener
+  rotate: false
+  xy: 1190, 681
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 14
+Armature_AttackOpener
+  rotate: false
+  xy: 1298, 778
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 59
+Armature_AttackOpener
+  rotate: false
+  xy: 1406, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 16
+Armature_AttackOpener
+  rotate: false
+  xy: 542, 2
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 18
+Armature_AttackOpener
+  rotate: false
+  xy: 650, 99
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 60
+Armature_AttackOpener
+  rotate: false
+  xy: 758, 196
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 62
+Armature_AttackOpener
+  rotate: false
+  xy: 866, 293
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 64
+Armature_AttackOpener
+  rotate: false
+  xy: 974, 390
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 21
+Armature_AttackOpener
+  rotate: false
+  xy: 1082, 487
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 66
+Armature_AttackOpener
+  rotate: false
+  xy: 1190, 584
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 23
+Armature_AttackOpener
+  rotate: false
+  xy: 1298, 681
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 68
+Armature_AttackOpener
+  rotate: false
+  xy: 1406, 778
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 25
+Armature_AttackOpener
+  rotate: false
+  xy: 1514, 875
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 103
+Armature_AttackOpener
+  rotate: false
+  xy: 650, 2
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 10
+Armature_AttackOpener
+  rotate: false
+  xy: 758, 99
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 105
+Armature_AttackOpener
+  rotate: false
+  xy: 866, 196
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 29
+Armature_AttackOpener
+  rotate: false
+  xy: 974, 293
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 107
+Armature_AttackOpener
+  rotate: false
+  xy: 1082, 390
+  size: 106, 95
+  orig: 106, 95
+  offset: 0, 0
+  index: 109
